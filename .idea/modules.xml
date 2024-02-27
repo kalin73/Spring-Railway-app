@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Railway-app/Railway-app.iml" filepath="$PROJECT_DIR$/Railway-app/Railway-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Railway-app.iml" filepath="$PROJECT_DIR$/.idea/Spring-Railway-app.iml" />
+    </modules>
+  </component>
+</project>
