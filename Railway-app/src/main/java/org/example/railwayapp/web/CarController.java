@@ -1,8 +1,7 @@
-package org.example.springrenderapp.web;
+package org.example.railwayapp.web;
 
 
-import org.example.springrenderapp.domain.Car;
-import org.example.springrenderapp.service.CarService;
+import org.example.railwayapp.service.CarService;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

@@ -1,7 +1,7 @@
-package org.example.springrenderapp.service;
+package org.example.railwayapp.service;
 
-import org.example.springrenderapp.domain.Car;
-import org.example.springrenderapp.repository.CarRepository;
+import org.example.railwayapp.domain.Car;
+import org.example.railwayapp.repository.CarRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

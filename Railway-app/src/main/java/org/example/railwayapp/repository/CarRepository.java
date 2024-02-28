@@ -1,6 +1,6 @@
-package org.example.springrenderapp.repository;
+package org.example.railwayapp.repository;
 
-import org.example.springrenderapp.domain.Car;
+import org.example.railwayapp.domain.Car;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface CarRepository extends JpaRepository<Car, Integer> {

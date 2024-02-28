@@ -1,4 +1,4 @@
-package org.example.springrenderapp.domain;
+package org.example.railwayapp.domain;
 
 import jakarta.persistence.*;
 

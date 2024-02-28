@@ -1,6 +1,6 @@
-package org.example.springrenderapp;
+package org.example.railwayapp;
 
-import org.example.springrenderapp.service.CarService;
+import org.example.railwayapp.service.CarService;
 import org.springframework.boot.CommandLineRunner;
 
 
